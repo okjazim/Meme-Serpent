@@ -1,4 +1,4 @@
-# Meme-Serpent(Work in Progress)
+# Meme Serpent(Work in Progress)
 
 <img width="200" height="200" alt="generated-image" src="https://github.com/user-attachments/assets/fa4660b2-430e-4b84-b6fd-d29c5e8548ed" />
 
