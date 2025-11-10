@@ -10,7 +10,7 @@ load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 
 def get_meme():
-  response = requests.get('https://meme-api.com/gimme/memes')
+  response = requests.get('https://meme-api.com/gimme')
   json_data = json.loads(response.text)
   return json_data['url']
 
@@ -36,4 +36,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run(TOKEN) # Replace with your own token.
+client.run(TOKEN)
