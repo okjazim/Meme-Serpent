@@ -10,4 +10,4 @@ By using this Discord bot MemeSerpent, you agree to the following terms:
 4. Abuse or misuse of the Bot may result in bans or blocked access.
 5. There might be updates to these terms without prior notice. Continued use means you accept the changes.
 
-If you have questions, contact the developer at: **jazijunaith02@gmail.com**
+If you have questions, contact the developer at: **jazimjunaith02@gmail.com**
