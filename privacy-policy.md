@@ -9,6 +9,6 @@ This policy explains how the Bot handles your data.
 3. **Data Storage:** Data is stored securely and deleted when no longer needed.
 4. **User Rights:** You can request data removal by contacting the developer.
 5. **Third Parties:** The Bot does not share data with third-party services.
-6. **Contact:** For any privacy concerns, contact **your_email@example.com**
+6. **Contact:** For any privacy concerns, contact **jazimjunaith02@gmail.com**
 
 By using the Bot, you consent to this Privacy Policy.
