@@ -17,7 +17,7 @@ Use it to bring memes, reactions, and fresh content to your server.
 
 ---
 
-## Quick Start
+## Setup
 
 ### 1️. Create Discord Bot
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
@@ -78,6 +78,13 @@ Meme-Serpent/
 - /serpent - Serpent says random meme
 - /react <emoji> - Auto-react to messages
 - /poll "Question?" "Option 1" "Option 2"
+
+---
+
+## Commands (Coming Soon)
+Click on the following link to invite bot to your preferred server:
+
+https://discord.com/oauth2/authorize?client_id=1437177547317186771&permissions=18432&integration_type=0&scope=bot
 
 ---
 
