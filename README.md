@@ -81,7 +81,7 @@ Meme-Serpent/
 
 ---
 
-## Commands (Coming Soon)
+## Bot Link
 Click on the following link to invite bot to your preferred server:
 
 https://discord.com/oauth2/authorize?client_id=1437177547317186771&permissions=18432&integration_type=0&scope=bot
