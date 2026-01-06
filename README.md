@@ -101,8 +101,8 @@ https://discord.com/oauth2/authorize?client_id=1437177547317186771&permissions=1
 
 ## Contributing
 1. Fork repository
-2. Create feature branch (`git checkout -b feature/meme-generator`)
-3. Commit changes (`git commit -m 'Add meme generator'`)
+2. Create feature branch (`git checkout -b feature/feature-name`)
+3. Commit changes (`git commit -m 'Add feature-name'`)
 4. Push and open Pull Request
 
 ---
