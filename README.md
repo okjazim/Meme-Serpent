@@ -108,4 +108,4 @@ https://discord.com/oauth2/authorize?client_id=1437177547317186771&permissions=1
 ---
 
 ## License
-MIT License - see [LICENSE](LICENSE) © 2025 okjazim
+MIT License - see [LICENSE](LICENSE) © 2026 okjazim
