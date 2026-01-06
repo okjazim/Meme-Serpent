@@ -7,7 +7,7 @@ Use it to bring memes, reactions, and fresh content to your server.
 
 ---
 
-## Features
+## 🚀 Features
 
 - **Meme commands** - Generate memes with templates like Drake or SpongeBob using simple slash commands
 - **Meme image generation** (In Progress) - Custom serpent-themed memes with user text overlays
@@ -17,7 +17,7 @@ Use it to bring memes, reactions, and fresh content to your server.
 
 ---
 
-## Setup
+## 📋 Setup Instructions
 
 ### 1️. Create Discord Bot
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
@@ -54,7 +54,7 @@ python bot.py
 
 ---
 
-## Project Structure
+## 📁 File Structure
 This is the how the project is organised:
 ```
 Meme-Serpent/
