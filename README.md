@@ -108,4 +108,5 @@ https://discord.com/oauth2/authorize?client_id=1437177547317186771&permissions=1
 ---
 
 ## License
-MIT License - see [LICENSE](LICENSE) © 2026 okjazim
+This project is licensed under the **MIT License**.
+See [`LICENSE`](LICENSE) for details. © 2026 okjazim
